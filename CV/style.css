@@ -1,0 +1,116 @@
+#fotomenu {
+    background-color: white;
+    float: left;
+    height: 1800px;
+    width: 30%;
+}
+
+#retrato {
+    margin-left: 65px;
+    width: 300px;
+    height: 350px;
+    border-radius: 50%;
+    border: solid #000000 1px;
+    -webkit-box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+    box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+}
+
+.boton {
+    list-style: none;
+    background-color: #f5f4f2;
+    margin-right: 50px;
+    margin-bottom: 8px;
+    -webkit-box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+    box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+    border: 1px solid #000000;
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+    color: #1b2733;
+}
+
+a.bot {
+    display: block;
+    padding: 5px;
+    color: #1b2733;
+    text-decoration: none;
+}
+
+a.bot:visited {
+    color: #1b2733;
+}
+
+a.bot:hover {
+    background-color: #1b2733;
+    color: #ffffff;
+}
+
+#fulltext {
+    background-color: white;
+    height: 1800px;
+    width: 69%;
+    float: left;
+    border: solid 0, 5px #000000;
+    -webkit-box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+    box-shadow: -18px 13px 5px 0px rgba(0, 0, 0, 0.78);
+}
+
+.cuadrado {
+    margin: 20px;
+    background-color: #FFCC00;
+    border-radius: 10px 10px 80px 10px;
+    -moz-border-radius: 10px 10px 80px 10px;
+    -webkit-border-radius: 10px 10px 80px 10px;
+    border: 3px solid #231900;
+    -webkit-box-shadow: 14px 15px 4px -10px rgba(0, 0, 0, 0.84);
+    -moz-box-shadow: 14px 15px 4px -10px rgba(0, 0, 0, 0.84);
+    box-shadow: 14px 15px 4px -10px rgba(0, 0, 0, 0.84);
+}
+
+.titulos {
+    font-family: 'Rubik', sans-serif;
+    color: #1b2733;
+    margin-left: 5px;
+}
+
+.seccion {
+    color: #FFCC00;
+    background-color: #1b2733;
+    font-family: 'Rubik', sans-serif;
+}
+
+h5 {
+    font-family: 'Rubik', sans-serif;
+    color: rgb(150, 148, 148);
+    margin-left: 5px;
+}
+
+p {
+    font-family: 'Karla', sans-serif;
+    color: #231900;
+    margin-left: 10px;
+}
+
+.icono {
+    list-style: none;
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+    float: left;
+}
+
+#iconos {
+    height: 500px;
+}
+
+.imgport {
+    height: 200px;
+    width: 200px;
+}
+
+.imgport:hover {
+    width: 250px;
+    height: 250px;
+}
